@@ -1,0 +1,5 @@
+{
+    "start_block": 1567460,
+    "checkpoints": [1000000, 1300000, 1450000],
+    "mongo_url": "mongodb://localhost:27017"
+}
